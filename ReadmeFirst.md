@@ -12,3 +12,7 @@
 # pip install pymysql
 
 
+# Udemy class: https://www.udemy.com/course/backend-api-testing-with-python/learn/lecture/21144322#overview
+# GitHub: https://github.com/Dmitry-Boyko/Udemy-API-testing.git
+
+
